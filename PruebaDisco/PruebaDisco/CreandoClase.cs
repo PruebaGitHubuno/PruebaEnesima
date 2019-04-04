@@ -9,9 +9,11 @@ namespace PruebaDisco
     public class CreandoClase
     {
         private string prueba;
+        private int count;
         public CreandoClase()
         {
 
         }
+
     }
 }
