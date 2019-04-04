@@ -15,5 +15,10 @@ namespace PruebaDisco
 
         }
 
+        public CreandoClase(string prueba, int count)
+        {
+            this.prueba = prueba;
+            this.count = count;
+        }
     }
 }
