@@ -8,5 +8,10 @@ namespace PruebaDisco
 {
     public class CreandoClase
     {
+        private string prueba;
+        public CreandoClase()
+        {
+
+        }
     }
 }
