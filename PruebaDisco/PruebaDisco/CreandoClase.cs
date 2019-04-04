@@ -15,5 +15,7 @@ namespace PruebaDisco
 
         }
 
+        public string Prueba { get => prueba; set => prueba = value; }
+        public int Count { get => count; set => count = value; }
     }
 }
