@@ -15,10 +15,13 @@ namespace PruebaDisco
 
         }
 
+        public string Prueba { get => prueba; set => prueba = value; }
+        public int Count { get => count; set => count = value; }
         public CreandoClase(string prueba, int count)
         {
             this.prueba = prueba;
             this.count = count;
         }
+
     }
 }
